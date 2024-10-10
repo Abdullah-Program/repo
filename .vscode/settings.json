@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "binarysearch/java2Dbinarysearch",
+        "binarysearch/honey",
+        "assignment"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
